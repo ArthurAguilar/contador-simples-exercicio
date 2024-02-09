@@ -1,2 +1,2 @@
-# contado-simples-exercicio
+# contador-simples-exercicio
  Contador simples pra treinar DOM
